@@ -1,4 +1,4 @@
-# OIBSIP---WebDev
+# OIBGRIP
 Web Development Internship Projects
 
 1. Task-1 Landing Page 
